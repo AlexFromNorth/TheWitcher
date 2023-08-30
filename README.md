@@ -17,7 +17,7 @@ Web-приложение на `React.js` о "вселенной" Ведьмак�
 
 1. Склонировать репозиторий в текущую папку:
 
-```git clone https://github.com/AlexFromNorth/TheWitcher.git ./```
+```git clone https://github.com/AlexFromNorth/TheWitcher.git ```
 
 2. Установить зависимости:
 
